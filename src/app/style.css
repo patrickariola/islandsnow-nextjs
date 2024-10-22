@@ -1,0 +1,19 @@
+.dropdown-toggle strong {
+    color: blue;
+    cursor: pointer;
+}
+
+#search{
+    color: blue;
+    cursor: pointer;
+
+}
+
+body, html {
+    overflow-x: hidden;
+  }
+
+footer{
+    background-color: #292929;
+    color: white;
+}
